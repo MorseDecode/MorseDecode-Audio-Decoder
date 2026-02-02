@@ -1,0 +1,14 @@
+[
+  {
+    "regexp": "^\\/MorseDecode-Audio-Decoder(?:\\/(_next\\/data\\/[^/]{1,}))?(?:\\/(\\/?index|\\/?index\\\\.json))?[\\/#\\?]?$",
+    "originalSource": "/"
+  },
+  {
+    "regexp": "^\\/MorseDecode-Audio-Decoder(?:\\/(_next\\/data\\/[^/]{1,}))?(?:\\/(en|zh|es|hi|ar|fr|ru|pt|de|ja))(?:\\/((?:[^\\/#\\?]+?)(?:\\/(?:[^\\/#\\?]+?))*))?(\\\\.json)?[\\/#\\?]?$",
+    "originalSource": "/(en|zh|es|hi|ar|fr|ru|pt|de|ja)/:path*"
+  },
+  {
+    "regexp": "^\\/MorseDecode-Audio-Decoder(?:\\/(_next\\/data\\/[^/]{1,}))?(?:\\/((?!api|_next|_vercel|.*\\..*).*))(\\\\.json)?[\\/#\\?]?$",
+    "originalSource": "/((?!api|_next|_vercel|.*\\..*).*)"
+  }
+]

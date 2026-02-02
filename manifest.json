@@ -1,0 +1,101 @@
+{
+  "name": "Morse Code Decode - Free Online Morse Code Translator",
+  "short_name": "Morse Decode",
+  "description": "Free online Morse Code translator with audio playback. Convert text to Morse code and decode Morse to text instantly.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/MorseDecode-Audio-Decoder/icons/icon-72x72-v2.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/MorseDecode-Audio-Decoder/icons/icon-96x96-v2.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/MorseDecode-Audio-Decoder/icons/icon-128x128-v2.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/MorseDecode-Audio-Decoder/icons/icon-144x144-v2.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/MorseDecode-Audio-Decoder/icons/icon-152x152-v2.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/MorseDecode-Audio-Decoder/icons/icon-192x192-v2.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/MorseDecode-Audio-Decoder/icons/icon-384x384-v2.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/MorseDecode-Audio-Decoder/icons/icon-512x512-v2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["education", "utilities"],
+  "shortcuts": [
+    {
+      "name": "Translator",
+      "short_name": "Translate",
+      "description": "Quick access to Morse code translator",
+      "url": "/",
+      "icons": [
+        {
+          "src": "/MorseDecode-Audio-Decoder/icons/icon-192x192-v2.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Alphabet",
+      "short_name": "Alphabet",
+      "description": "View Morse code alphabet",
+      "url": "/alphabet",
+      "icons": [
+        {
+          "src": "/MorseDecode-Audio-Decoder/icons/icon-192x192-v2.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/MorseDecode-Audio-Decoder/screenshots/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/MorseDecode-Audio-Decoder/screenshots/screenshot-mobile.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}

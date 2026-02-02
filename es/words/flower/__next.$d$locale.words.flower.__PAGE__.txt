@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[60042,["/MorseDecode-Audio-Decoder/_next/static/chunks/5adf1a9b626ab036.js","/MorseDecode-Audio-Decoder/_next/static/chunks/77d38d10446b483e.js","/MorseDecode-Audio-Decoder/_next/static/chunks/cea6d8e0ecd7af25.js","/MorseDecode-Audio-Decoder/_next/static/chunks/6f4ab3c842fe66f3.js","/MorseDecode-Audio-Decoder/_next/static/chunks/9e73f7680fe44f9d.js"],"default"]
+3:I[42380,["/MorseDecode-Audio-Decoder/_next/static/chunks/51bdb5d817d5abf6.js","/MorseDecode-Audio-Decoder/_next/static/chunks/715b9a035da91c09.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"d_opwk3CgW-L7q1_d55kH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"word":"FLOWER","meaning":"La estructura reproductiva de las plantas con flores, a menudo colorida y fragante","usage":"FLOWER es una palabra hermosa para practicar temas de naturaleza.","examples":["En el jardín: \"Esta flor huele muy bien\"","Regalos: \"Compré flores para mi madre\"","Naturaleza: \"Las abejas polinizan las flores\""]}],[["$","script","script-0",{"src":"/MorseDecode-Audio-Decoder/_next/static/chunks/6f4ab3c842fe66f3.js","async":true}],["$","script","script-1",{"src":"/MorseDecode-Audio-Decoder/_next/static/chunks/9e73f7680fe44f9d.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
